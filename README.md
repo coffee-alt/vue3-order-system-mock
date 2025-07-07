@@ -7,8 +7,7 @@ A modern restaurant ordering system front-end demo built with Vue 3, Vite, and P
 
 ## 🖥️ 在线体验 | Live Demo
 
-> [https://your-demo.vercel.app](https://your-demo.vercel.app)  
-> _(请替换为你的实际部署地址)_
+> [https://vue3-order-system-mock-5pkh-k36knqkj6.vercel.app](http://vue3-order-system-mock-5pkh-k36knqkj6.vercel.app)  
 
 ---
 

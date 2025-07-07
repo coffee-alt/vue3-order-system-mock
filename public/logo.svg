@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- 背景 -->
+  <rect width="200" height="60" fill="#f59e0b" rx="8"/>
+  
+  <!-- 文字 -->
+  <text x="100" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    🍜 美食订餐
+  </text>
+</svg> 
